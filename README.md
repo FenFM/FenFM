@@ -1,9 +1,6 @@
-Hello there, I'm Fenja.
+### Hewoo
 
-I'm a student at the University of Rostock and am currently studing Electrical Engineering.
-I'm also working as a Student Associate at the Institute for Applied Microelectronics and Data-Processing.
+Hello there, you can call me Fenja.
 
-<!---
-FenFr/FenFr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an Electrical Engineering student at the University of Rostock.
+Also I'm working as a Student Associate at the Institute for Applied Microelectronics and Data-Processing.
