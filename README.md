@@ -65,8 +65,8 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [telegram-badge-img]:   https://img.shields.io/badge/Telegram-28A8E9?style=for-the-badge&logo=telegram&logoColor=white
 [telegram-badge-link]:  https://t.me/FreitagOderSo
 
-[github-stats-img]:     https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true&count_private=true,card_width=450
-[github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=compact&show_icons=true&align=right&count_private=true,card_width=250
+[github-stats-img]:     https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true&count_private=true&card_width=400
+[github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=compact&show_icons=true&align=right&count_private=true&card_width=300
 
 [c-badge-img]:        https://img.shields.io/badge/C-5D6CBF?style=for-the-badge&logo=c&logoColor=white
 [c-badge-link]:       https://www.cprogramming.com/
