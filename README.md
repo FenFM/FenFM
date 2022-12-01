@@ -8,7 +8,7 @@
 &nbsp;
 
 
-<h2> About Me <img align = "right" src = "https://komarev.com/ghpvc/?username=FenFr&color=blueviolet&style=flat-square"> </h2>
+<h2> About Me <img align = "right" src = "https://komarev.com/ghpvc/?username=FenFr&label=Profile_Views&color=blueviolet&style=flat-square"> </h2>
 I'm studying and working at the University of Rostock as a Student Associate at the Institute for Applied Microelectronics and CE.
 
 
@@ -17,11 +17,11 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [![Discord Badge][discord-badge-img]][discord-badge-link] &nbsp; [![Telegram Badge][telegram-badge-img]][telegram-badge-link]
 
 
+
 &nbsp;
 
-
 ## My Skills
-
+  
 ![FenFr's GitHub Stats][github-stats-img] &nbsp; &nbsp; ![FenFr's GitHub Top-langs][github-top-lang-img]
 
 
@@ -42,8 +42,8 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [![FPGA][fpga-badge-img]][fpga-badge-link]
 
 
-&nbsp;
 
+&nbsp;
 
 ## Personal Space Invader
 
@@ -65,7 +65,7 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [telegram-badge-link]:  https://t.me/FreitagOderSo
 
 [github-stats-img]:     https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true&count_private=true&card_width=450
-[github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=compact&show_icons=true&align=right&count_private=true&card_width=300&langs_count=8
+[github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=compact&show_icons=true&count_private=true&card_width=300&langs_count=8
 
 [c-badge-img]:        https://img.shields.io/badge/C-5D6CBF?style=for-the-badge&logo=c&logoColor=white
 [c-badge-link]:       https://www.cprogramming.com/
