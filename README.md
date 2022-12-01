@@ -44,7 +44,6 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 
 &nbsp;
 
-[![Readme Quotes][quotes-img]][quotes-link]
 
 ## Personal Space Invader
 
@@ -89,6 +88,3 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/88195/intel-core-i76700k-processor-8m-cache-up-to-4-20-ghz/specifications.html
 [win-badge-img]:    https://img.shields.io/badge/Windows_10-0870C5?style=for-the-badge&logo=windows
 [win-badge-link]:   https://www.microsoft.com/de-de/software-download/windows10
-
-[quotes-img]:   https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight
-[quotes-link]:  https://github.com/piyushsuthar/github-readme-quotes
