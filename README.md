@@ -13,9 +13,8 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 
 ### You can reach out to me via:
 
-[![Discord Badge][discord-badge-img]][discord-badge-link]
-&nbsp;
-[![Telegram Badge][telegram-badge-img]][telegram-badge-link]
+[![Discord Badge][discord-badge-img]][discord-badge-link] &nbsp; [![Telegram Badge][telegram-badge-img]][telegram-badge-link]
+
 
 &nbsp;
 
@@ -23,35 +22,25 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 
 ## My Skills
 
-![FenFr's GitHub Stats][github-stats-img]
-&nbsp; &nbsp;
-![FenFr's GitHub Top-langs][github-top-lang-img]
+![FenFr's GitHub Stats][github-stats-img] &nbsp; &nbsp; ![FenFr's GitHub Top-langs][github-top-lang-img]
 
 
-### Languages & Freameworks
+### Languages & Frameworks
 
-![C-Badge][c-badge-img]
-&nbsp;
-![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=gray&logo=cplusplus&style=for-the-badge)
-&nbsp;
-![Matlab](https://img.shields.io/static/v1?label=&message=Matlab&color=orange&style=for-the-badge)
-&nbsp;
-![Vivado](https://img.shields.io/static/v1?label=Vivado&message=VHDL&color=green&labelColor=gray&style=for-the-badge)
+[![C-Badge][c-badge-img]][c-badge-link] &nbsp; [![C++][cpp-badge-img]][cpp-badge-link] 
+&nbsp; 
+[![Matlab][matlab-badge-img]][matlab-badge-link] &nbsp; [![Vivado][vivado-badge-img]][vivado-badge-link]
 
 
 ### Tools
 
-![VSC](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=gray&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjM0IDIzNS4xIiB3aWR0aD0iMjQ4OCIgaGVpZ2h0PSIyNTAwIj48c3R5bGU+LnN0MHtmaWxsOiMwMTc5Y2J9PC9zdHlsZT48cGF0aCBjbGFzcz0ic3QwIiBkPSJNODMuMyAxNDMuOWwtNTggNDUuMkwwIDE3Ni41VjU4LjdMMjUuMiA0Nmw1Ny42IDQ1LjNMMTc0IDBsNjAgMjMuOXYxODYuOWwtNTkuNyAyNC4zLTkxLTkxLjJ6bTg4LjkgMTUuOVY3NS4zbC01NC42IDQyLjMgNTQuNiA0Mi4yek0yNy4zIDE0NC42TDU2IDExOC41IDI3LjMgODkuOXY1NC43eiIvPjwvc3ZnPgo=)
+[![Visual Studio Code][vs-code-badge-img]][vs-code-badge-link]
 
 
 ### Devices
 
+[![FPGA][fpga-img]][fpga-link]
 
-&nbsp;
-
-#### You can reacht out to me via:
-- Discord: Mika Gepardi#1984
-- Telegram: @FreitagOderSo
 
 &nbsp;
 
@@ -61,17 +50,26 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 
 
 <!-- Link anchors -->
-[discord-badge-img]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[discord-badge-link]: https://discord.com/users/173817930327392256
+[discord-badge-img]:    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[discord-badge-link]:   https://discord.com/users/173817930327392256
 
-[telegram-badge-img]: https://img.shields.io/badge/Telegram-28A8E9?style=for-the-badge&logo=telegram&logoColor=white
-[telegram-badge-link]: https://t.me/FreitagOderSo
+[telegram-badge-img]:   https://img.shields.io/badge/Telegram-28A8E9?style=for-the-badge&logo=telegram&logoColor=white
+[telegram-badge-link]:  https://t.me/FreitagOderSo
 
-[c-badge-img]: https://img.shields.io/badge/C-004488?style=for-the-badge&logo=c&logoColor=white
-[cpp-badge-img]: https://img.shields.io/badge/C-gray?style=for-the-badge&logo=c&logoColor=white
-[matlab-badge-img]:
-[vivado-badge-img]:
-[vs-code-badge_img]:
+[github-stats-img]:     https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true
+[github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=default&show_icons=true 
 
-[github-stats-img]: https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true
-[github-top-lang-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=default&show_icons=true 
+[c-badge-img]:        https://img.shields.io/badge/C-5D6CBF?style=for-the-badge&logo=c&logoColor=white
+[c-badge-link]:       https://www.cprogramming.com/
+[cpp-badge-img]:      https://img.shields.io/badge/C++-5D6CBF?style=for-the-badge&logo=cplusplus&logoColor=white
+[cpp-badge-link]:     https://cplusplus.com/
+[matlab-badge-img]:   https://img.shields.io/badge/Matlab-C04C0B?style=for-the-badge&logoColor=white&logo=
+[matlab-badge-link]:  https://de.mathworks.com/products/matlab.html
+[vivado-badge-img]:   https://img.shields.io/badge/VHDL-DDDF57?style=for-the-badge&label=Vivado&logoColor=white&logo=
+[vivado-badge-link]:  https://www.xilinx.com/products/design-tools/vivado.html
+
+[vs-code-badge-img]:  https://img.shields.io/badge/Visual%20Studio%20Code-23A9F2?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code
+[vs-code-badge-link]: https://code.visualstudio.com/
+
+[fpga-img]: https://img.shields.io/badge/FPGA-DDDF57?style=for-the-badge&logoColor=white&logo=
+[fpga-link]: https://de.wikipedia.org/wiki/Field_Programmable_Gate_Array
