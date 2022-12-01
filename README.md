@@ -84,7 +84,7 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [fpga-badge-img]:   https://img.shields.io/badge/FPGA-DDDF57?style=for-the-badge&logoColor=white&logo=
 [fpga-badge-link]:  https://en.wikipedia.org/wiki/Field-programmable_gate_array
 
-[gcard-badge-img]:  https://img.shields.io/badge/Nvidia-GTX--1080-76B900?style=for-the-badge&logo=nvidia
+[gcard-badge-img]:  https://img.shields.io/badge/Nvidia-GTX_1080-76B900?style=for-the-badge&logo=nvidia
 [gcard-badge-link]: https://www.nvidia.com/en-us/geforce/news/geforce-gtx-1080/
 [cpu-badge-img]:    https://img.shields.io/badge/Intel-Core_i7_6700k-0870C5?style=for-the-badge&logo=intel
 [cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/88195/intel-core-i76700k-processor-8m-cache-up-to-4-20-ghz/specifications.html
