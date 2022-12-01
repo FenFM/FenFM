@@ -1,11 +1,12 @@
 <div align = "center">
-  <h1> Henlo, I'm Fenya </h1>
+  <h1> Henlo, :wave: I'm Fenya </h1>
   <img src = "svg/pronouns/sheher.svg">
-  <h3> :pouting_woman: Fenya :zap: Electrical Engineer :zap: Germany :de: </h3>
+  <h3> :pouting_woman: Fenya :zap: Electrical Engineer :zap: Rostock, Germany :de: </h3>
 </div>
 
 
 &nbsp;
+
 
 <h2> About Me <img align = "right" src = "https://komarev.com/ghpvc/?username=FenFr&color=blueviolet&style=flat-square"> </h2>
 I'm studying and working at the University of Rostock as a Student Associate at the Institute for Applied Microelectronics and CE.
@@ -17,7 +18,6 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 
 
 &nbsp;
-
 
 
 ## My Skills
@@ -39,17 +39,28 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 
 ### Devices
 
-[![FPGA][fpga-img]][fpga-link]
+[![FPGA][fpga-badge-img]][fpga-badge-link]
 
 
 &nbsp;
 
-### Random Meme:
+
+## Personal Stuff
+
+#### My Workstation
+
+[![Grafikkarte][gcard-badge-img]][gcard-badge-link] &nbsp; [![CPU][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-10][win-badge-img]][win-badge-img]
+
+&nbsp;
+
+
+#### Random Meme
 <img src='https://random-memer.herokuapp.com/' width="500" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 
 <!-- Link anchors -->
+
 [discord-badge-img]:    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [discord-badge-link]:   https://discord.com/users/173817930327392256
 
@@ -65,11 +76,18 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [cpp-badge-link]:     https://cplusplus.com/
 [matlab-badge-img]:   https://img.shields.io/badge/Matlab-C04C0B?style=for-the-badge&logoColor=white&logo=
 [matlab-badge-link]:  https://de.mathworks.com/products/matlab.html
-[vivado-badge-img]:   https://img.shields.io/badge/VHDL-DDDF57?style=for-the-badge&label=Vivado&logoColor=white&logo=
+[vivado-badge-img]:   https://img.shields.io/badge/Vivado-VHDL-DDDF57?style=for-the-badge&logoColor=white&logo=
 [vivado-badge-link]:  https://www.xilinx.com/products/design-tools/vivado.html
 
 [vs-code-badge-img]:  https://img.shields.io/badge/Visual%20Studio%20Code-23A9F2?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code
 [vs-code-badge-link]: https://code.visualstudio.com/
 
-[fpga-img]: https://img.shields.io/badge/FPGA-DDDF57?style=for-the-badge&logoColor=white&logo=
-[fpga-link]: https://de.wikipedia.org/wiki/Field_Programmable_Gate_Array
+[fpga-badge-img]:   https://img.shields.io/badge/FPGA-DDDF57?style=for-the-badge&logoColor=white&logo=
+[fpga-badge-link]:  https://de.wikipedia.org/wiki/Field_Programmable_Gate_Array
+
+[gcard-badge-img]:  https://img.shields.io/badge/Nvidia-GTX--1080-76B900?style=for-the-badge&logo=nvidia
+[gcard-badge-link]: https://www.nvidia.com/en-us/geforce/news/geforce-gtx-1080/
+[cpu-badge-img]:    https://img.shields.io/badge/Intel_Core-i7_6700k-0870C5?style=for-the-badge&logo=intel
+[cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/88195/intel-core-i76700k-processor-8m-cache-up-to-4-20-ghz/specifications.html
+[win-badge-img]:    https://img.shields.io/badge/Windows_10-0870C5?style=for-the-badge&logo=windows
+[win-badge-link]:   https://www.microsoft.com/de-de/software-download/windows10
