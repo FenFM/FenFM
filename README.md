@@ -44,18 +44,22 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 
 &nbsp;
 
+[![Readme Quotes][quotes-img]][quotes-link]
 
 ## Personal Space Invader
 
 #### My Workstation
 
-[![Grafikkarte][gcard-badge-img]][gcard-badge-link] &nbsp; [![CPU][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-10][win-badge-img]][win-badge-img]
+[![Grafikkarte][gcard-badge-img]][gcard-badge-link] &nbsp; [![CPU][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-10][win-badge-img]][win-badge-link]
 
 &nbsp;
 
 
 #### Random Meme
+
 <img src='https://random-memer.herokuapp.com/' width="500" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+&nbsp; &nbsp;
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
@@ -67,7 +71,7 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [telegram-badge-link]:  https://t.me/FreitagOderSo
 
 [github-stats-img]:     https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true
-[github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=default&show_icons=true&align=right
+[github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=compact&show_icons=true&align=right
 
 [c-badge-img]:        https://img.shields.io/badge/C-5D6CBF?style=for-the-badge&logo=c&logoColor=white
 [c-badge-link]:       https://www.cprogramming.com/
@@ -78,7 +82,7 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [vivado-badge-img]:   https://img.shields.io/badge/Vivado-VHDL-DDDF57?style=for-the-badge&logoColor=white&logo=
 [vivado-badge-link]:  https://www.xilinx.com/products/design-tools/vivado.html
 
-[vs-code-badge-img]:  https://img.shields.io/badge/Visual_Studio_Code-23A9F2?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code
+[vs-code-badge-img]:  https://img.shields.io/badge/Visual_Studio_Code-317AC6?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code
 [vs-code-badge-link]: https://code.visualstudio.com/
 
 [fpga-badge-img]:   https://img.shields.io/badge/FPGA-DDDF57?style=for-the-badge&logoColor=white&logo=
@@ -90,3 +94,6 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/88195/intel-core-i76700k-processor-8m-cache-up-to-4-20-ghz/specifications.html
 [win-badge-img]:    https://img.shields.io/badge/Windows_10-0870C5?style=for-the-badge&logo=windows
 [win-badge-link]:   https://www.microsoft.com/de-de/software-download/windows10
+
+[quotes-img]:   https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight
+[quotes-link]:  https://github.com/piyushsuthar/github-readme-quotes
