@@ -51,6 +51,26 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 
 [![Grafikkarte][gcard-badge-img]][gcard-badge-link] &nbsp; [![CPU][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-10][win-badge-img]][win-badge-link]
 
+
+#### Maxwell's Equations
+
+$$ \begin{align}
+\nabla\times\vec{H}   &= \vec{J} + \frac{\partial \vec{D}}{\partial t}  & 
+\oint_{\partial A}\vec{H}\cdot d\vec{s}   &= \iint_A\vec{J}\cdot d\vec{A} + \iint_A\frac{\partial\vec{D}}{\partial t}\cdot d\vec{A}   &
+\vec{J} &= \kappa\cdot\vec{E}                                                                                                             \\
+                      &                                                 &                                                                 \\
+-\nabla\times\vec{E}  &= \vec{M} + \frac{\partial \vec{B}}{\partial t}  &  
+-\oint_{\partial A}\vec{E}\cdot d\vec{s}  &= \iint_A\vec{M}\cdot d\vec{A} + \iint_A\frac{\partial\vec{B}}{\partial t}\cdot d\vec{A}   &
+\vec{D} &= \varepsilon\cdot\vec{E}                                                                                                        \\
+                      &                                                 &                                                                 \\
+\nabla\cdot\vec{D}    &= \varrho                                        & 
+\oint_{\partial V}\vec{D}\cdot\vec{A}    &= \iiint_V \varrho \hspace{3pt} dV                                                          &
+\vec{B} &= \mu\cdot\vec{H}                                                                                                                \\
+                      &                                                 &                                                                 \\
+\nabla\cdot\vec{B}    &= 0                                              &
+\oint_{\partial V}\vec{B}\cdot\vec{A}    &= 0                           &
+\end{align} $$
+
 &nbsp;
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
