@@ -42,6 +42,10 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [![FPGA][fpga-badge-img]][fpga-badge-link]
 
 
+### Others
+
+[![LaTeX][latex-badge-img]][latex-badge-link]
+
 
 &nbsp;
 
@@ -101,6 +105,9 @@ $$ \begin{align}
 
 [fpga-badge-img]:   https://img.shields.io/badge/FPGA-DDDF57?style=for-the-badge&logoColor=white&logo=
 [fpga-badge-link]:  https://en.wikipedia.org/wiki/Field-programmable_gate_array
+
+[latex-badge-img]:  https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logoColor=white&logo=LaTeX
+[latex-badge-link]: https://www.latex-project.org/
 
 [gcard-badge-img]:  https://img.shields.io/badge/Nvidia-GTX_1080-76B900?style=for-the-badge&logo=nvidia
 [gcard-badge-link]: https://www.nvidia.com/en-us/geforce/news/geforce-gtx-1080/
