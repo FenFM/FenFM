@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1> Henlo, :wave: I'm Jan </h1>
+  <h1> Henlo, :wave: I'm Fen </h1>
   <img src = "svg/pronouns/sheher.svg">
   <h3> :pouting_woman: Fenya :zap: Electrical Engineer :zap: Rostock, Germany :de: </h3>
 </div>
