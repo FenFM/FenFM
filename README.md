@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1> Henlo, :wave: I'm Fen </h1>
+  <h1> Henlo, :wave: I'm Fenja </h1>
   <img src = "svg/pronouns/sheher.svg">
   <h3> :pouting_woman: Fenja :zap: Electrical Engineer :zap: Rostock, Germany :de: </h3>
 </div>
@@ -68,11 +68,11 @@ $$ \begin{align}
 \vec{D} &= \varepsilon\cdot\vec{E}                                                                                                                \\
                       &                                                             &                                                             \\
 \nabla\cdot\vec{D}    &= \varrho                                                    & 
-\oint_{\partial V}\vec{D}\cdot d\vec{A}    &= \iiint_V \varrho \hspace{3pt} dV                                                                      &
+\oint_{\partial V}\vec{D}\cdot d\vec{A}   &= \iiint_V \varrho \hspace{3pt} dV                                                                     &
 \vec{B} &= \mu\cdot\vec{H}                                                                                                                        \\
                       &                                                             &                                                             \\
 \nabla\cdot\vec{B}    &= 0                                                          &
-\oint_{\partial V}\vec{B}\cdot d\vec{A}    &= 0                                       &
+\oint_{\partial V}\vec{B}\cdot d\vec{A}   &= 0                                      &
 \end{align} $$
 
 &nbsp;
