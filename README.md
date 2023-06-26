@@ -9,7 +9,7 @@
 
 
 <h2> About Me <img align = "right" src = "https://komarev.com/ghpvc/?username=FenFr&label=Profile_Views&color=blueviolet&style=flat-square"> </h2>
-I'm studying and working at the University of Rostock as a Student Associate at the Institute for Applied Microelectronics and CE.
+I'm studying and working at the University of Rostock as a Student Associate at the Institute for Applied Microelectronics and Computer Engineering.
 
 
 ### You can reach out to me via:
