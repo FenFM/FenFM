@@ -53,7 +53,8 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 
 #### My Workstation
 
-[![Grafikkarte][gcard-badge-img]][gcard-badge-link] &nbsp; [![CPU][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-10][win-badge-img]][win-badge-link]
+[![Grafikkarte][gcard-badge-img]][gcard-badge-link] &nbsp; [![CPU][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-10][win-badge-img]][win-badge-link] &nbsp;
+[![UBUNTU][lin-badge-img]][lin-badge-link]
 
 
 #### Maxwell's Equations
