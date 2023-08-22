@@ -113,5 +113,5 @@ $$ \begin{align}
 [cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/88195/intel-core-i76700k-processor-8m-cache-up-to-4-20-ghz/specifications.html
 [win-badge-img]:    https://img.shields.io/badge/Windows_11-0870C5?style=for-the-badge&logo=windows
 [win-badge-link]:   https://www.microsoft.com/de-de/windows/get-windows-11
-[lin-badge-img]:    https://img.shields.io/badge/Ubuntu-CACCCE?style=for-the-badge&logo=ubuntu
+[lin-badge-img]:    https://img.shields.io/badge/Ubuntu-313335?style=for-the-badge&logo=ubuntu
 [lin-badge-link]:   https://ubuntu.com/
