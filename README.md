@@ -108,9 +108,9 @@ $$ \begin{align}
 [latex-badge-link]: https://www.latex-project.org/
 
 [gcard-badge-img]:  https://img.shields.io/badge/Nvidia-RTX_3050Ti-76B900?style=for-the-badge&logo=nvidia
-[gcard-badge-link]: https://www.nvidia.com/en-us/geforce/news/geforce-gtx-1080/
+[gcard-badge-link]: https://www.nvidia.com/de-de/geforce/graphics-cards/30-series/rtx-3050/
 [cpu-badge-img]:    https://img.shields.io/badge/Intel-Core_i7_12700H-0870C5?style=for-the-badge&logo=intel
-[cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/88195/intel-core-i76700k-processor-8m-cache-up-to-4-20-ghz/specifications.html
+[cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/132228/intel-core-i712700h-processor-24m-cache-up-to-4-70-ghz/specifications.html?wapkw=12700h
 [win-badge-img]:    https://img.shields.io/badge/Windows_11-0870C5?style=for-the-badge&logo=windows
 [win-badge-link]:   https://www.microsoft.com/de-de/windows/get-windows-11
 [lin-badge-img]:    https://img.shields.io/badge/Ubuntu-555555?style=for-the-badge&logo=ubuntu
