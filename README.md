@@ -112,6 +112,6 @@ $$ \begin{align}
 [cpu-badge-img]:    https://img.shields.io/badge/Intel-Core_i7_12700H-0870C5?style=for-the-badge&logo=intel
 [cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/132228/intel-core-i712700h-processor-24m-cache-up-to-4-70-ghz/specifications.html?wapkw=12700h
 [win-badge-img]:    https://img.shields.io/badge/Windows_11-0870C5?style=for-the-badge&logo=windows
-[win-badge-link]:   https://www.microsoft.com/de-de/windows/get-windows-11
+[win-badge-link]:   https://www.microsoft.com/en-us/windows/get-windows-11
 [lin-badge-img]:    https://img.shields.io/badge/Ubuntu-555555?style=for-the-badge&logo=ubuntu
 [lin-badge-link]:   https://ubuntu.com/
