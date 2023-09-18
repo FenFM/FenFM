@@ -11,12 +11,6 @@
 I'm studying and working at the University of Rostock as a Student Associate at the Institute for Applied Microelectronics and Computer Engineering.
 
 
-### You can reach out to me via:
-
-[![Discord Badge][discord-badge-img]][discord-badge-link] &nbsp; [![Telegram Badge][telegram-badge-img]][telegram-badge-link]
-
-
-
 &nbsp;
 
 ## My Skills
@@ -79,11 +73,6 @@ $$ \begin{align}
 
 
 <!-- Link anchors -->
-
-[discord-badge-img]:    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[discord-badge-link]:   https://discord.com/users/173817930327392256 
-[telegram-badge-img]:   https://img.shields.io/badge/Telegram-28A8E9?style=for-the-badge&logo=telegram&logoColor=white
-[telegram-badge-link]:  https://t.me/FreitagOderSo
 
 [github-stats-img]:     https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true&count_private=true&card_width=450
 [github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=compact&show_icons=true&count_private=true&card_width=300&langs_count=8
