@@ -50,6 +50,11 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 [![UBUNTU][lin-badge-img]][lin-badge-link]
 
 
+#### My mobile Workstation
+
+[![Grafikkarte][gcard_m-badge-img]][gcard-badge-link_m] &nbsp; [![CPU][cpu-badge-img_m]][cpu-badge-link_m]
+
+
 #### Maxwell's Equations
 
 $$ \begin{align}
@@ -73,7 +78,6 @@ $$ \begin{align}
 
 
 <!-- Link anchors -->
-
 [github-stats-img]:     https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true&count_private=true&card_width=450
 [github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=compact&show_icons=true&count_private=true&card_width=300&langs_count=8
 
@@ -95,10 +99,15 @@ $$ \begin{align}
 [latex-badge-img]:  https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logoColor=white&logo=LaTeX
 [latex-badge-link]: https://www.latex-project.org/
 
-[gcard-badge-img]:  https://img.shields.io/badge/Nvidia-RTX_3050Ti-76B900?style=for-the-badge&logo=nvidia
-[gcard-badge-link]: https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/
-[cpu-badge-img]:    https://img.shields.io/badge/Intel-Core_i7_12700H-0870C5?style=for-the-badge&logo=intel
-[cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/132228/intel-core-i712700h-processor-24m-cache-up-to-4-70-ghz/specifications.html?wapkw=12700h
+
+[gcard-badge-img]:  https://img.shields.io/badge/Nvidia-RTX_1080-76B900?style=for-the-badge&logo=nvidia
+[gcard-badge-link]: https://www.nvidia.com/de-de/geforce/10-series/
+[cpu-badge-img]:    https://img.shields.io/badge/Intel-Core_i7_6700K-0870C5?style=for-the-badge&logo=intel
+[cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/88195/intel-core-i76700k-processor-8m-cache-up-to-4-20-ghz/specifications.html
+[gcard_m-badge-img]:  https://img.shields.io/badge/Nvidia-RTX_3050Ti-76B900?style=for-the-badge&logo=nvidia
+[gcard_m-badge-link]: https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/
+[cpu_m-badge-img]:    https://img.shields.io/badge/Intel-Core_i7_12700H-0870C5?style=for-the-badge&logo=intel
+[cpu_m-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/132228/intel-core-i712700h-processor-24m-cache-up-to-4-70-ghz/specifications.html?wapkw=12700h
 [win-badge-img]:    https://img.shields.io/badge/Windows_11-0870C5?style=for-the-badge&logo=windows
 [win-badge-link]:   https://www.microsoft.com/en-us/windows/get-windows-11
 [lin-badge-img]:    https://img.shields.io/badge/Ubuntu-555555?style=for-the-badge&logo=ubuntu
