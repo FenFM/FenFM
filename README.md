@@ -1,6 +1,6 @@
 <div align = "center">
-  <h1> Henlo, :wave: I'm Fenja </h1>
-  <h3> :zap: Electrical Engineer :zap: Rostock, Germany :de: </h3>
+  <h1> Henlo :wave:, I'm Fenja </h1>
+  <h3> :small_blue_diamond:  Electrical Engineer :small_blue_diamond: Rostock :sailboat:, Germany :de: </h3>
 </div>
 
 
@@ -45,11 +45,6 @@ I'm studying and working at the University of Rostock as a Student Associate at 
 ## Personal Space Invader
 
 #### My Workstation
-
-[![Grafikkarte][gcard-badge-img]][gcard-badge-link] &nbsp; [![CPU][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-10][win_10-badge-img]][win_10-badge-link] &nbsp; [![UBUNTU][lin-badge-img]][lin-badge-link]
-
-
-#### My mobile Workstation
 
 [![Grafikkarte][gcard_m-badge-img]][gcard_m-badge-link] &nbsp; [![CPU][cpu_m-badge-img]][cpu_m-badge-link] &nbsp; [![WIN-11][win_11-badge-img]][win_11-badge-link] &nbsp; [![UBUNTU][lin-badge-img]][lin-badge-link]
 
