@@ -14,9 +14,10 @@ I'm studying for my Masters in Electrical Engineering at the University of Rosto
 &nbsp;
 
 ## My Skills
-  
-![FenFr's GitHub Stats][github-stats-img] &nbsp; &nbsp; ![FenFr's GitHub Top-langs][github-top-lang-img]
 
+<!-- maybe for later, when I get more experience  
+![FenFr's GitHub Stats][github-stats-img] &nbsp; &nbsp; ![FenFr's GitHub Top-langs][github-top-lang-img]
+-->
 
 ### Languages & Frameworks
 
