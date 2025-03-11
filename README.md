@@ -39,6 +39,8 @@ I'm studying for my Masters in Electrical Engineering at the University of Rosto
 ### Others
 
 [![LaTeX][latex-badge-img]][latex-badge-link]
+![word-badge-img]
+![excel-badge-img]
 
 
 &nbsp;
@@ -93,6 +95,8 @@ $$ \begin{align}
 
 [latex-badge-img]:  https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logoColor=white&logo=LaTeX
 [latex-badge-link]: https://www.latex-project.org/
+[word-badge-img]:   https://img.shields.io/badge/Word-1755B9?style=for-the-badge
+[excel-badge-img]:  https://img.shields.io/badge/Excel-0D793D?style=for-the-badge
 
 
 [gcard-badge-img]:  https://img.shields.io/badge/Nvidia-GTX_1080-76B900?style=for-the-badge&logo=nvidia
