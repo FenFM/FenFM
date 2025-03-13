@@ -21,9 +21,10 @@ I'm studying for my Masters in Electrical Engineering at the University of Rosto
 
 ### Languages & Frameworks
 
-[![C-Badge][c-badge-img]][c-badge-link] &nbsp; [![C++][cpp-badge-img]][cpp-badge-link] 
-&nbsp; 
-[![Matlab][matlab-badge-img]][matlab-badge-link] &nbsp; [![Vivado][vivado-badge-img]][vivado-badge-link]
+[![C-Badge][c-badge-img]][c-badge-link] &nbsp;
+[![C++][cpp-badge-img]][cpp-badge-link] &nbsp; 
+[![Matlab][matlab-badge-img]][matlab-badge-link] &nbsp;
+[![Vivado][vivado-badge-img]][vivado-badge-link]
 
 
 ### Tools
@@ -38,8 +39,8 @@ I'm studying for my Masters in Electrical Engineering at the University of Rosto
 
 ### Others
 
-[![LaTeX][latex-badge-img]][latex-badge-link]
-![word-badge-img]
+[![LaTeX][latex-badge-img]][latex-badge-link] &nbsp;
+![word-badge-img] &nbsp;
 ![excel-badge-img]
 
 
