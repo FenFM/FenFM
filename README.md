@@ -50,7 +50,7 @@ I'm studying for my Masters in Electrical Engineering at the University of Rosto
 
 #### My Workstation
 
-[![Grafikkarte][gcard_m-badge-img]][gcard_m-badge-link] &nbsp; [![CPU][cpu_m-badge-img]][cpu_m-badge-link] &nbsp; [![WIN-11][win_11-badge-img]][win_11-badge-link] &nbsp; [![UBUNTU][lin-badge-img]][lin-badge-link]
+[![Grafikkarte][gcard-badge-img]][gcard-badge-link] &nbsp; [![CPU][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-11][win_11-badge-img]][win_11-badge-link] &nbsp; [![UBUNTU][lin-badge-img]][lin-badge-link]
 
 
 #### Maxwell's Equations
@@ -104,10 +104,6 @@ $$ \begin{align}
 [gcard-badge-link]: https://www.nvidia.com/en-us/geforce/10-series/
 [cpu-badge-img]:    https://img.shields.io/badge/Intel-Core_i7_6700K-0870C5?style=for-the-badge&logo=intel
 [cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/88195/intel-core-i76700k-processor-8m-cache-up-to-4-20-ghz/specifications.html
-[gcard_m-badge-img]:  https://img.shields.io/badge/Nvidia-RTX_3050Ti-76B900?style=for-the-badge&logo=nvidia
-[gcard_m-badge-link]: https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3050/
-[cpu_m-badge-img]:    https://img.shields.io/badge/Intel-Core_i7_12700H-0870C5?style=for-the-badge&logo=intel
-[cpu_m-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/132228/intel-core-i712700h-processor-24m-cache-up-to-4-70-ghz/specifications.html?wapkw=12700h
 [win_10-badge-img]:    https://img.shields.io/badge/Windows_10-0870C5?style=for-the-badge&logo=windows
 [win_10-badge-link]:   https://www.microsoft.com/en-us/software-download/windows10
 [win_11-badge-img]:    https://img.shields.io/badge/Windows_11-0870C5?style=for-the-badge&logo=windows
