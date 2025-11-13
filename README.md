@@ -27,15 +27,10 @@ I'm studying for my Masters in Electrical Engineering at the University of Rosto
 [![VHDL][vhdl-badge-img]][vhdl-badge-link]
 
 
-### Tools
+### Tools & Devices
 
 [![Visual Studio Code][vs-code-badge-img]][vs-code-badge-link] &nbsp;
-[![Vivado][vivado-badge-img]][vivado-badge-link]
-
-
-
-### Devices
-
+[![Vivado][vivado-badge-img]][vivado-badge-link] &nbsp;
 [![FPGA][fpga-badge-img]][fpga-badge-link]
 
 
