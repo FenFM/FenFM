@@ -76,9 +76,9 @@ $$ \begin{align}
 [github-stats-img]:     https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true&count_private=true&card_width=450
 [github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=compact&show_icons=true&count_private=true&card_width=300&langs_count=8
 
-[c-badge-img]:        https://img.shields.io/badge/_-355C7D?style=for-the-badge&logo=c&logoColor=white
+[c-badge-img]:        https://img.shields.io/badge/C-355C7D?style=for-the-badge
 [c-badge-link]:       https://www.cprogramming.com/
-[cpp-badge-img]:      https://img.shields.io/badge/_-355C7D?style=for-the-badge&logo=cplusplus&logoColor=white
+[cpp-badge-img]:      https://img.shields.io/badge/C++-355C7D?style=for-the-badge
 [cpp-badge-link]:     https://cplusplus.com/
 [matlab-badge-img]:   https://img.shields.io/badge/Matlab-355C7D?style=for-the-badge
 [matlab-badge-link]:  https://de.mathworks.com/products/matlab.html
