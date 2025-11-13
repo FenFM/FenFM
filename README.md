@@ -24,12 +24,14 @@ I'm studying for my Masters in Electrical Engineering at the University of Rosto
 [![C-Badge][c-badge-img]][c-badge-link] &nbsp;
 [![C++][cpp-badge-img]][cpp-badge-link] &nbsp; 
 [![Matlab][matlab-badge-img]][matlab-badge-link] &nbsp;
-[![Vivado][vivado-badge-img]][vivado-badge-link]
+[![VHDL][vhdl-badge-img]][vhdl-badge-link]
 
 
 ### Tools
 
-[![Visual Studio Code][vs-code-badge-img]][vs-code-badge-link]
+[![Visual Studio Code][vs-code-badge-img]][vs-code-badge-link] &nbsp;
+[![Vivado][vivado-badge-img]][vivado-badge-link]
+
 
 
 ### Devices
@@ -85,11 +87,13 @@ $$ \begin{align}
 [cpp-badge-link]:     https://cplusplus.com/
 [matlab-badge-img]:   https://img.shields.io/badge/Matlab-C04C0B?style=for-the-badge&logoColor=white&logo=
 [matlab-badge-link]:  https://de.mathworks.com/products/matlab.html
-[vivado-badge-img]:   https://img.shields.io/badge/Vivado-VHDL-DDDF57?style=for-the-badge&logoColor=white&logo=
-[vivado-badge-link]:  https://www.xilinx.com/products/design-tools/vivado.html
+[vhdl-badge-img]:     https://img.shields.io/badge/VHDL-DDDF57?style=for-the-badge
+[vhdl-badge-link]:    https://ieeexplore.ieee.org/document/8938196
 
 [vs-code-badge-img]:  https://img.shields.io/badge/Visual_Studio_Code-317AC6?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code
 [vs-code-badge-link]: https://code.visualstudio.com/
+[vivado-badge-img]:   https://img.shields.io/badge/Vivado-DDDF57?style=for-the-badge&logo=amd&logoColor=black
+[vivado-badge-link]:  https://www.xilinx.com/products/design-tools/vivado.html
 
 [fpga-badge-img]:   https://img.shields.io/badge/FPGA-DDDF57?style=for-the-badge&logoColor=white&logo=
 [fpga-badge-link]:  https://en.wikipedia.org/wiki/Field-programmable_gate_array
