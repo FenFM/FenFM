@@ -100,12 +100,10 @@ $$ \begin{align}
 [excel-badge-img]:  https://img.shields.io/badge/Excel-0D793D?style=for-the-badge
 
 
-[gcard-badge-img]:  https://img.shields.io/badge/Nvidia-GTX_1080-76B900?style=for-the-badge&logo=nvidia
-[gcard-badge-link]: https://www.nvidia.com/en-us/geforce/10-series/
-[cpu-badge-img]:    https://img.shields.io/badge/Intel-Core_i7_6700K-0870C5?style=for-the-badge&logo=intel
-[cpu-badge-link]:   https://www.intel.com/content/www/us/en/products/sku/88195/intel-core-i76700k-processor-8m-cache-up-to-4-20-ghz/specifications.html
-[win_10-badge-img]:    https://img.shields.io/badge/Windows_10-0870C5?style=for-the-badge&logo=windows
-[win_10-badge-link]:   https://www.microsoft.com/en-us/software-download/windows10
+[gcard-badge-img]:  https://img.shields.io/badge/Nvidia-GTX_4070-76B900?style=for-the-badge&logo=nvidia
+[gcard-badge-link]: https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-family/
+[cpu-badge-img]:    https://img.shields.io/badge/AMD-RYZEN_7_7435HS-EF6724?style=for-the-badge&logo=amd
+[cpu-badge-link]:   https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7435hs.html
 [win_11-badge-img]:    https://img.shields.io/badge/Windows_11-0870C5?style=for-the-badge&logo=windows
 [win_11-badge-link]:   https://www.microsoft.com/en-us/windows/get-windows-11
 [lin-badge-img]:    https://img.shields.io/badge/Ubuntu-555555?style=for-the-badge&logo=ubuntu
