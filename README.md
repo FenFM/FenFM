@@ -98,11 +98,11 @@ $$ \begin{align}
 [excel-badge-img]:  https://img.shields.io/badge/Excel-C56C86?style=for-the-badge
 
 
-[gcard-badge-img]:  https://img.shields.io/badge/Nvidia-GTX_4070-76B900?style=for-the-badge&logo=nvidia
+[gcard-badge-img]:  https://img.shields.io/badge/GTX_4070-ED6D79?style=for-the-badge&logoColor=white&logo=nvidia
 [gcard-badge-link]: https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-family/
-[cpu-badge-img]:    https://img.shields.io/badge/AMD-RYZEN_7_7435HS-EF6724?style=for-the-badge&logo=amd
+[cpu-badge-img]:    https://img.shields.io/badge/RYZEN_7_7435HS-ED6D79?style=for-the-badge&logoColor=white&logo=amd
 [cpu-badge-link]:   https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7435hs.html
-[win_11-badge-img]:    https://img.shields.io/badge/Windows_11-0870C5?style=for-the-badge&logo=windows
+[win_11-badge-img]:    https://img.shields.io/badge/Windows_11-ED6D79?style=for-the-badge&logo=windows
 [win_11-badge-link]:   https://www.microsoft.com/en-us/windows/get-windows-11
-[lin-badge-img]:    https://img.shields.io/badge/Ubuntu-555555?style=for-the-badge&logo=ubuntu
+[lin-badge-img]:    https://img.shields.io/badge/Ubuntu-ED6D79?style=for-the-badge&logoColor=white&logo=ubuntu
 [lin-badge-link]:   https://ubuntu.com/
