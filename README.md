@@ -7,7 +7,7 @@
 &nbsp;
 
 
-<h2> About Me <img align = "right" src = "https://komarev.com/ghpvc/?username=FenFr&label=Profile_Views&color=blueviolet&style=flat-square"> </h2>
+<h2> About Me <img align = "right" src = "https://komarev.com/ghpvc/?username=FenFr&label=Profile_Views&color=355C7D&style=flat-square"> </h2>
 I'm studying for my Masters in Electrical Engineering at the University of Rostock where I specialize in Applied Microelectronics and Computer Engineering. I'm hopefull to finish my degree in the summer of 2025.
 
 
@@ -98,11 +98,11 @@ $$ \begin{align}
 [excel-badge-img]:  https://img.shields.io/badge/Excel-C56C86?style=for-the-badge
 
 
-[gcard-badge-img]:  https://img.shields.io/badge/GTX_4070-ED6D79?style=for-the-badge&logoColor=white&logo=nvidia
+[gcard-badge-img]:  https://img.shields.io/badge/GTX_4070-C56C86?style=for-the-badge&logoColor=white&logo=nvidia
 [gcard-badge-link]: https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-family/
-[cpu-badge-img]:    https://img.shields.io/badge/RYZEN_7_7435HS-ED6D79?style=for-the-badge&logoColor=white&logo=amd
+[cpu-badge-img]:    https://img.shields.io/badge/RYZEN_7_7435HS-C56C86?style=for-the-badge&logoColor=white&logo=amd
 [cpu-badge-link]:   https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7435hs.html
-[win_11-badge-img]:    https://img.shields.io/badge/Windows_11-ED6D79?style=for-the-badge&logo=windows
+[win_11-badge-img]:    https://img.shields.io/badge/Windows_11-C56C86?style=for-the-badge&logo=windows
 [win_11-badge-link]:   https://www.microsoft.com/en-us/windows/get-windows-11
-[lin-badge-img]:    https://img.shields.io/badge/Ubuntu-ED6D79?style=for-the-badge&logoColor=white&logo=ubuntu
+[lin-badge-img]:    https://img.shields.io/badge/Ubuntu-C56C86?style=for-the-badge&logoColor=white&logo=ubuntu
 [lin-badge-link]:   https://ubuntu.com/
