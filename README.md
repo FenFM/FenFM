@@ -1,6 +1,6 @@
 <div align = "center">
   <h1> Henlo :wave:, I'm Fenja </h1>
-  <h3> :small_blue_diamond:  Electrical Engineer :small_blue_diamond: Rostock :sailboat:, Germany :de: </h3>
+  <h3> :small_blue_diamond:  Electrical Engineer :small_blue_diamond: Rostock :sailboat: Germany :de: </h3>
 </div>
 
 
