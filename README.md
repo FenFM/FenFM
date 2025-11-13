@@ -76,27 +76,26 @@ $$ \begin{align}
 [github-stats-img]:     https://github-readme-stats.vercel.app/api?username=FenFr&theme=aura&show_icons=true&count_private=true&card_width=450
 [github-top-lang-img]:  https://github-readme-stats.vercel.app/api/top-langs/?username=FenFr&theme=aura&layout=compact&show_icons=true&count_private=true&card_width=300&langs_count=8
 
-[c-badge-img]:        https://img.shields.io/badge/C-5D6CBF?style=for-the-badge&logo=c&logoColor=white
+[c-badge-img]:        https://img.shields.io/badge/C-355C7D?style=for-the-badge&logo=c&logoColor=white
 [c-badge-link]:       https://www.cprogramming.com/
-[cpp-badge-img]:      https://img.shields.io/badge/C++-5D6CBF?style=for-the-badge&logo=cplusplus&logoColor=white
+[cpp-badge-img]:      https://img.shields.io/badge/C++-355C7D?style=for-the-badge&logo=cplusplus&logoColor=white
 [cpp-badge-link]:     https://cplusplus.com/
-[matlab-badge-img]:   https://img.shields.io/badge/Matlab-C04C0B?style=for-the-badge&logoColor=white&logo=
+[matlab-badge-img]:   https://img.shields.io/badge/Matlab-355C7D?style=for-the-badge&logoColor=white&logo=
 [matlab-badge-link]:  https://de.mathworks.com/products/matlab.html
-[vhdl-badge-img]:     https://img.shields.io/badge/VHDL-DDDF57?style=for-the-badge
+[vhdl-badge-img]:     https://img.shields.io/badge/VHDL-355C7D?style=for-the-badge
 [vhdl-badge-link]:    https://ieeexplore.ieee.org/document/8938196
 
-[vs-code-badge-img]:  https://img.shields.io/badge/Visual_Studio_Code-317AC6?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code
+[vs-code-badge-img]:  https://img.shields.io/badge/Visual_Studio_Code-725A78?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code
 [vs-code-badge-link]: https://code.visualstudio.com/
-[vivado-badge-img]:   https://img.shields.io/badge/Vivado-DDDF57?style=for-the-badge&logo=amd&logoColor=black
+[vivado-badge-img]:   https://img.shields.io/badge/Vivado-725A78?style=for-the-badge&logo=amd&logoColor=white
 [vivado-badge-link]:  https://www.xilinx.com/products/design-tools/vivado.html
-
-[fpga-badge-img]:   https://img.shields.io/badge/FPGA-DDDF57?style=for-the-badge&logoColor=white&logo=
+[fpga-badge-img]:   https://img.shields.io/badge/FPGA-725A78?style=for-the-badge&logoColor=white&logo=
 [fpga-badge-link]:  https://en.wikipedia.org/wiki/Field-programmable_gate_array
 
-[latex-badge-img]:  https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logoColor=white&logo=LaTeX
+[latex-badge-img]:  https://img.shields.io/badge/LaTeX-C56C86?style=for-the-badge&logoColor=white&logo=LaTeX
 [latex-badge-link]: https://www.latex-project.org/
-[word-badge-img]:   https://img.shields.io/badge/Word-1755B9?style=for-the-badge
-[excel-badge-img]:  https://img.shields.io/badge/Excel-0D793D?style=for-the-badge
+[word-badge-img]:   https://img.shields.io/badge/Word-C56C86?style=for-the-badge
+[excel-badge-img]:  https://img.shields.io/badge/Excel-C56C86?style=for-the-badge
 
 
 [gcard-badge-img]:  https://img.shields.io/badge/Nvidia-GTX_4070-76B900?style=for-the-badge&logo=nvidia
