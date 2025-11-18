@@ -44,7 +44,7 @@ I'm studying for my Masters in Electrical Engineering at the University of Rosto
 
 #### My Workstation
 
-[![Grafikkarte][gcard-badge-img]][gcard-badge-link] &nbsp; [![CPU][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-11][win_11-badge-img]][win_11-badge-link] &nbsp; [![UBUNTU][lin-badge-img]][lin-badge-link]
+[![RTX4070][gcard-badge-img]][gcard-badge-link] &nbsp; [![RYZEN_7][cpu-badge-img]][cpu-badge-link] &nbsp; [![WIN-11][win_11-badge-img]][win_11-badge-link] &nbsp; [![UBUNTU][lin-badge-img]][lin-badge-link]
 
 
 #### Maxwell's Equations
