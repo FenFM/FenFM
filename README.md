@@ -8,7 +8,7 @@
 
 
 <h2> About Me <img align = "right" src = "https://komarev.com/ghpvc/?username=FenFr&label=Profile_Views&color=1F4964&style=flat-square"> </h2>
-I studied for my Masters in Electrical Engineering at the University of Rostock where I specialize in Applied Microelectronics and Computer Engineering.
+I studied for my Masters in Electrical Engineering at the University of Rostock where I specialized in Applied Microelectronics and Computer Engineering.
 
 
 &nbsp;
