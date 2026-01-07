@@ -95,7 +95,7 @@ $$ \begin{align}
 [excel-badge-img]:  https://img.shields.io/badge/Excel-2B334C?style=for-the-badge
 
 
-[gcard-badge-img]:  https://img.shields.io/badge/GTX_4070-1B3145?style=for-the-badge&logoColor=white&logo=nvidia
+[gcard-badge-img]:  https://img.shields.io/badge/RTX_4070-1B3145?style=for-the-badge&logoColor=white&logo=nvidia
 [gcard-badge-link]: https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-family/
 [cpu-badge-img]:    https://img.shields.io/badge/RYZEN_7_7435HS-1B3145?style=for-the-badge&logoColor=white&logo=amd
 [cpu-badge-link]:   https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7435hs.html
